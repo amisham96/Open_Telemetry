@@ -1,0 +1,18 @@
+{
+	"instrumentationKey": "22f2dbd8-9a55-483d-8af2-c3cc82efcf95",
+	"connectionString": "InstrumentationKey=22f2dbd8-9a55-483d-8af2-c3cc82efcf95;IngestionEndpoint=https://southindia-0.in.applicationinsights.azure.com/",
+	"telemetry": {
+		"disableTelemetry": false,
+		"disableContextSwitching": false,
+		"disableMetricCollection": false,
+		"disableDependencyTracking": false,
+		"disableExceptionTracking": false
+	},
+	"logging": {
+		"logLevel": {
+			"default": "Information",
+			"System": "Warning",
+			"Microsoft": "Warning"
+		}
+	}
+}

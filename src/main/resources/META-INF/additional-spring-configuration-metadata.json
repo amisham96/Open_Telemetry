@@ -1,0 +1,27 @@
+{"properties": [
+  {
+    "name": "management.tracing.export.simple.enabled",
+    "type": "java.lang.String",
+    "description": "A description for 'management.tracing.export.simple.enabled'"
+  },
+  {
+    "name": "otel.exporter.otlp.endpoint",
+    "type": "java.lang.String",
+    "description": "A description for 'otel.exporter.otlp.endpoint'"
+  },
+  {
+    "name": "management.tracing.enabled",
+    "type": "java.lang.String",
+    "description": "A description for 'management.tracing.enabled'"
+  },
+  {
+    "name": "management.tracing.sampling.probability",
+    "type": "java.lang.String",
+    "description": "A description for 'management.tracing.sampling.probability'"
+  },
+  {
+    "name": "management.endpoints.web.exposure.include",
+    "type": "java.lang.String",
+    "description": "A description for 'management.endpoints.web.exposure.include'"
+  }
+]}
